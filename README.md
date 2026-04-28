@@ -16,7 +16,7 @@
 ├── Homework3-main.py                  # 主实验代码：数据预处理、模型训练、预测与指标计算
 ├── Homework3-shap.py                  # SHAP 可解释性分析代码
 ├── LSTM-Multivariate_pollution.csv    # 空气质量数据集
-├── PRML Homework3.pdf                 # 作业报告
+├── PRML_Homework3.pdf                 # 作业报告
 └── README.md                          # 项目说明文件
 ```
 ## 实验内容
