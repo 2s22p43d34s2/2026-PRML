@@ -1,11 +1,10 @@
-"""plot_and_report.py — 结果可视化与报告生成。
+"""plot_and_report.py — 结果可视化
 
 职责：
   - 读取 results/train_log_*.csv 绘制 loss 曲线
   - 读取 results/pe_comparison.csv 绘制 BLEU / token accuracy 对比图
   - 句长分桶对比分析
   - 翻译样例整理
-  - 生成 report/report_material.md
 """
 
 import os
@@ -367,22 +366,3 @@ def plot_cpu_baseline_valid_loss(
     plt.savefig(out_path, dpi=150, bbox_inches='tight')
     plt.close()
     print(f'  Saved: {out_path}')
-
-
-def generate_report_material(out_path: str = 'report/report_material.md'):
-    """读取 results/ 和 figures/ 中的所有真实结果，生成报告材料 Markdown。
-
-    报告结构：
-    标题、作者、摘要、关键词
-    一、引言
-    二、数据集说明、可视化与预处理
-    三、模型方法
-    四、实验设计与实验步骤
-    五、实验结果与分析
-    六、位置编码机制讨论与创新实验分析
-    七、结论
-    八、参考文献
-
-    必须基于真实结果文件生成，不编造数值。
-    """
-    raise NotImplementedError
