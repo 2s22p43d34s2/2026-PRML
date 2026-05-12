@@ -491,10 +491,6 @@ def save_checkpoint(model: nn.Module, pe_type: str,
     print(f'  Saved: {path}')
 
 
-# ═══════════════════════════════════════════════════════════
-# 五组实验调度（阶段6使用）
-# ═══════════════════════════════════════════════════════════
-
 def run_all_experiments(config: dict):
     """依次运行5组 pe_type 实验。"""
     raise NotImplementedError  # 阶段6实现
