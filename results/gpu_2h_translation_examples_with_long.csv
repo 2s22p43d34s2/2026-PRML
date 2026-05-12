@@ -1,0 +1,5 @@
+example_id,length_bucket,source_de,reference_en,pred_none,pred_absolute,pred_sinusoidal,pred_learned,pred_gated_mix
+1,short,dasselbe gilt für mich.,the same goes for me.,i felt sorry for me.,he thought that kind of me.,i thought that there was a lot.,that is a true for me.,i felt no one for me.
+2,short,"ich vermute, dass du recht hast.",i suppose you're right.,i promise you that you are right.,i suppose you want me to be right.,i suppose you were right.,i guess you're right.,i suppose you won't be right.
+0,medium,"ich fürchte, dass uns diese art von treffen nicht weiterbringt.",i'm afraid this kind of meeting isn't getting us anywhere.,i'm afraid that we didn't help us by us.,i'm afraid that i'm afraid that we won't be able to do that by us.,i'm afraid that i didn't think that this kind of thing about us.,i'm afraid that you didn't help us again.,i'm afraid that i'm afraid of us.
+5,medium,ich muss dir etwas wichtiges mitteilen.,i have something important to tell you.,i have to show you something wrong way.,i have to tell you something wrong way.,i have to tell you something cold.,i have to tell you something.,i have to tell you something wrong.
