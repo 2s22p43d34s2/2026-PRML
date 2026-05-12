@@ -9,7 +9,7 @@
 - 输入：德语句子
 - 输出：英语句子
 - 数据：data/deu.txt（德英平行句对，约32万对）
-- 评价指标：token accuracy（非BLEU）
+- 评价指标：token accuracy、BLEU
 
 ## 五种位置编码
 
@@ -128,7 +128,6 @@ for pe_type in ['none', 'absolute', 'sinusoidal', 'learned', 'gated_mix']:
 ## 注意事项
 
 - 本实验为课程作业，模型规模有限（d_model=256, 3层），翻译质量未达到工业级水平
-- 当前评价指标为token accuracy，非标准BLEU分数
 - 训练需要NVIDIA GPU，CPU训练速度较慢
 - 完整五组实验约需2-2.5小时（RTX 4060 Laptop）
 - 通过 `max_samples` 参数可减少样本量进行快速测试
