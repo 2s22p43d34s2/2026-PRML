@@ -55,7 +55,7 @@
 │   ├── data_utils.py         # 数据管线（读取/清洗/分词/词表/Dataset/DataLoader）
 │   ├── transformer_model.py  # Transformer模型（5种PE/多头注意力/Encoder/Decoder）
 │   ├── experiment.py         # 训练/验证/测试/贪心解码/实验调度
-│   └── plot_and_report.py    # 结果可视化与报告生成
+│   └── plot_and_report.py    # 结果可视化
 ├── results/
 │   ├── gpu_big_pe_comparison.csv
 │   ├── gpu_big_train_logs.csv
