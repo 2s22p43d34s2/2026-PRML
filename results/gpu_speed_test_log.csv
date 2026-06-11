@@ -1,0 +1,19 @@
+metric,value
+total_time_s,94.2
+peak_vram_gb,0.93
+train_loss,5.5476
+valid_loss,4.7641
+token_acc,0.1958
+short_acc,0.2441
+medium_acc,0.1651
+long_acc,0.0792
+total_params,20696501
+d_model,256
+n_heads,8
+num_layers,3
+dim_feedforward,1024
+batch_size,64
+max_len,30
+max_samples,50000
+device,cuda
+gpu_name,NVIDIA GeForce RTX 4060 Laptop GPU

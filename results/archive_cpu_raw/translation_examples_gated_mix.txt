@@ -1,0 +1,52 @@
+=== Translation Examples (pe_type=gated_mix) ===
+
+--- Example 1 ---
+Source (DE):     wie werden leute wie du zu leuten wie dir?
+Reference (EN):  how do people like you get to be people like you?
+Prediction (EN): how many long do you have to do you have to do that.
+
+--- Example 2 ---
+Source (DE):     wo kann ich sie finden?
+Reference (EN):  where can i find you?
+Prediction (EN): i can't do you think i can do that.
+
+--- Example 3 ---
+Source (DE):     du bist noch lange nicht fertig.
+Reference (EN):  you're far from being finished.
+Prediction (EN): you don't have to be here.
+
+--- Example 4 ---
+Source (DE):     der erdradius misst ca. 6000 km.
+Reference (EN):  the earth's radius is about 6,000 kilometers.
+Prediction (EN): the only are you were the door of the same
+
+--- Example 5 ---
+Source (DE):     findest du mich hübsch?
+Reference (EN):  do you think i'm handsome?
+Prediction (EN): you have to me.
+
+--- Example 6 ---
+Source (DE):     ohne sie hätte tom das nicht geschafft.
+Reference (EN):  tom couldn't have done it without you.
+Prediction (EN): tom didn't know that you don't want to do that.
+
+--- Example 7 ---
+Source (DE):     sie flehte ihn an, zu bleiben.
+Reference (EN):  she begged him to stay.
+Prediction (EN): she is not to be able to be able to be able to be here.
+
+--- Example 8 ---
+Source (DE):     der nebel begann langsam sich zu heben.
+Reference (EN):  the fog gradually began to clear.
+Prediction (EN): the only are you need to the same
+
+--- Example 9 ---
+Source (DE):     ich werde tom nie wieder vertrauen.
+Reference (EN):  i'm never going to trust tom again.
+Prediction (EN): i never never never never never never never never never never ever tom.
+
+--- Example 10 ---
+Source (DE):     ich habe dich erwartet.
+Reference (EN):  i've been waiting for you.
+Prediction (EN): i thought you were you.
+

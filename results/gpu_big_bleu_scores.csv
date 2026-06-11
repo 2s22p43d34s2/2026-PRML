@@ -1,0 +1,6 @@
+pe_type,bleu,token_acc,valid_loss,best_epoch
+none,36.22,0.4684,3.0440,20
+absolute,35.18,0.4649,3.0421,19
+sinusoidal,36.03,0.4679,3.0336,20
+learned,36.93,0.4979,3.0002,20
+gated_mix,35.87,0.4680,3.0372,20
